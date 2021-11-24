@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0cab7fcc-f595-52e8-d6fa-3848c8cf7cec"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Intermediate Heat and Mass Transfer",
+  "course_description": "2.51 is a 12-unit subject, serving as the Mechanical Engineering Department's advanced undergraduate course in heat and mass transfer. The prerequisites for this course are the undergraduate courses in thermodynamics and fluid mechanics, specifically Thermal Fluids Engineering I and Thermal Fluids Engineering II or their equivalents. This course covers problems of heat and mass transfer in greater depth and complexity than is done in those courses and incorporates many subjects that are not included or are treated lightly in those courses; analysis is given greater emphasis than the use of correlations. Course 2.51 is directed at undergraduates having a strong interest in thermal science and graduate students who have not previously studied heat transfer.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.51",
+  "learning_resource_types": [
+    "Online Textbook"
+  ],
+  "title": "Course Metadata"
+}
